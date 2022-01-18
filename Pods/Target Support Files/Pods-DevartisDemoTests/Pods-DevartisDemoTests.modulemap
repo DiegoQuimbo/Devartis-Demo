@@ -1,0 +1,6 @@
+framework module Pods_DevartisDemoTests {
+  umbrella header "Pods-DevartisDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
